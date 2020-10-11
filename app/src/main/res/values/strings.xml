@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EstudioAndroidJetPack</string>
+    <string name="title">MyNotes</string>
+    <string name="emailLabelHint">Email</string>
+    <string name="passwordLableHint">contraseña</string>
+    <string name="labelButtonLogin">ENTRAR</string>
 </resources>
