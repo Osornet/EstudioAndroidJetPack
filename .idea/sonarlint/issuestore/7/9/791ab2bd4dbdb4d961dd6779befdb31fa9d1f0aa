@@ -1,0 +1,5 @@
+
+z
+java:S1450"XRemove the "btn_login" field and declare it as a local variable in the relevant methods.(ºšŒéûÿÿÿÿ8¢ÚıÑ.
+u	java:S116"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšŒéûÿÿÿÿ8”œØıÑ.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ñØÚıÒ.
