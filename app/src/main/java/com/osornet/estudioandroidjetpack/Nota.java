@@ -3,6 +3,7 @@ package com.osornet.estudioandroidjetpack;
 public class Nota {
 
     private String nota;
+    private String titulo;
     private String contenido;
     private boolean favorita;
     private int color;
@@ -20,6 +21,14 @@ public class Nota {
 
     public void setNota(String nota) {
         this.nota = nota;
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
     }
 
     public String getContenido() {
